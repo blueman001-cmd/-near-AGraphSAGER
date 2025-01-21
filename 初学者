@@ -1,5 +1,0 @@
-＃include<iostream>
-int  main(){
-std::cout<<'0'<<str::endl;
-return 0;
-}
